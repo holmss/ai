@@ -580,7 +580,7 @@ pizza(grillBeef):-
 	crust(thin),
 	taste(neutral),
 	isVegan(notveg),
-	hunger(hidh),
+	hunger(high),
 	sauceBase(thousandIslands).
 
 pizza(hotTuna):-
